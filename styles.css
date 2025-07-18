@@ -1,0 +1,27 @@
+/* Fondo suave */
+body {
+    background-color: #f8f9fa;
+}
+
+/* Botón animado */
+.btn-outline-success:hover {
+    background-color: #288ea7;
+    color: rgba(240, 234, 234, 0.934);
+    transition: all 0.3s ease-in-out;
+}
+
+/* Tabla más moderna */
+.table thead th {
+    vertical-align: middle;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 5px;
+}
+*alfa
+
+{
+    background-color: #41a0b3;
+}
